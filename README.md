@@ -42,7 +42,7 @@ I want to express my deepest gratitude to Dhaval Patel Sir and Hemanand Vadivel 
 
 ## Power BI Live Dashboard
 
-https://app.powerbi.com/view?r=eyJrIjoiNzc4YTc4OTktYTQ2ZC00NjVmLWI2MjMtZjkzMDg2NmYzZjRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+!(https://app.powerbi.com/view?r=eyJrIjoiNzc4YTc4OTktYTQ2ZC00NjVmLWI2MjMtZjkzMDg2NmYzZjRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
