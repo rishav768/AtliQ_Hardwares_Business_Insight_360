@@ -40,6 +40,11 @@ This project is designed to clearly outline the objectives and goals of the data
 I want to express my deepest gratitude to Dhaval Patel Sir and Hemanand Vadivel Sir for their outstanding guidance and mentorship. Their insights and support have been invaluable throughout this journey. I’m also profoundly thankful to the Codebasics team for their constant assistance during the project. Whenever I faced challenges, they were always there to help.
 
 
+## Power BI Live Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiNzc4YTc4OTktYTQ2ZC00NjVmLWI2MjMtZjkzMDg2NmYzZjRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
 
 ## Screenshort Of Project
 ![Power BI 360 Insight Images Compile_page-0001](https://github.com/user-attachments/assets/1519c552-b190-4e9f-82c7-d8cb0c46a515)
